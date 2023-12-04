@@ -13,3 +13,11 @@ Animation is used so that the penguins left fin will wave
 
 Penguin scale changes when clicked using active pseudo class
 ![image](https://github.com/kylehraja/HappyPenguin/assets/140476247/e1c57ece-af7f-4bea-97da-b5f012567030)
+
+
+How to run webpage:
+
+1) Download and unzip the HappyPenguin.zip file.
+2) Open in vscode.
+3) Install the "live server" extenstion for vscode. https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+4) Open the index.html and run the code (Windows shortcut key: ALT+L+O).
